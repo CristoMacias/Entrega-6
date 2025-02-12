@@ -20,36 +20,5 @@ h1{
 .botones{
     text-align: center;
 }
-.rotarDrch0{
-    transform: rotate(0deg);
-}
-
-.rotarDrch1{
-    transform: rotate(90deg);
-}
-
-.rotarDrch2{
-    transform: rotate(180deg);
-}
-
-.rotarDrch3{
-    transform: rotate(270deg);
-}
-
-.rotarIzq0{
-    transform: rotate(270deg);
-}
-
-.rotarIzq1{
-    transform: rotate(180deg);
-}
-
-.rotarIzq2{
-    transform: rotate(90deg);
-}
-
-.rotarIzq3{
-    transform: rotate(0deg);
-}
 
 
